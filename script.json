@@ -3,6 +3,7 @@
     "bubble": "blue",
     "sound": true,
     "typeSpeedMs": 55,
+    "typeJitter": 0.5,
     "scale": 1,
     "width": 760,
     "avatarUrl": "images/hims-contact.webp"
