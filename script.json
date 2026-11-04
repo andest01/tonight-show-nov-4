@@ -1,0 +1,62 @@
+{
+  "options": {
+    "bubble": "blue",
+    "sound": false,
+    "typeSpeedMs": 55,
+    "scale": 1,
+    "width": 760,
+    "avatarUrl": ""
+  },
+  "rows": [
+    {
+      "row": 0,
+      "direction": "in",
+      "from": "Mock Contact",
+      "text": "This is a mock script. Replace me.",
+      "clear": true,
+      "typing": false,
+      "typed": false,
+      "note": "mock"
+    },
+    {
+      "row": 1,
+      "direction": "in",
+      "from": "Mock Contact",
+      "text": "...",
+      "clear": false,
+      "typing": true,
+      "typed": false,
+      "note": "mock: typing dots"
+    },
+    {
+      "row": 2,
+      "direction": "in",
+      "from": "Mock Contact",
+      "text": "A second mock text, continuing the thread.",
+      "clear": false,
+      "typing": false,
+      "typed": false,
+      "note": "mock"
+    },
+    {
+      "row": 3,
+      "direction": "out",
+      "from": "Mock Contact",
+      "text": "A mock reply, typed out.",
+      "clear": false,
+      "typing": false,
+      "typed": true,
+      "note": "mock: typed out by the presenter"
+    },
+    {
+      "row": 4,
+      "direction": "in",
+      "from": "Mock Contact",
+      "text": "Last mock text, on its own.",
+      "clear": true,
+      "typing": false,
+      "typed": false,
+      "note": "mock"
+    }
+  ]
+}
