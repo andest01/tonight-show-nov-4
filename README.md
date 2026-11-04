@@ -1,6 +1,6 @@
 # tonight-show-nov-4
 
-The hosted script for the Tonight Show texts gag. The board reads `script.json` from this repo; editing the file here changes what the board shows. The contents right now are a **mock**.
+The hosted script for the Tonight Show texts gag. The board reads `script.json` from this repo; editing the file here changes what the board shows. It is the same file as `client/src/services/tonightShow/script.json` in the hitboard repo, which the board also ships as its built-in fallback.
 
 ## How the board reads it
 1. GitHub's contents API for `script.json` on `main` (cached about 1 minute).

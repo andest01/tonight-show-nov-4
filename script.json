@@ -1,62 +1,102 @@
 {
   "options": {
     "bubble": "blue",
-    "sound": false,
+    "sound": true,
     "typeSpeedMs": 55,
     "scale": 1,
     "width": 760,
-    "avatarUrl": ""
+    "avatarUrl": "images/hims-contact.webp"
   },
   "rows": [
     {
       "row": 0,
       "direction": "in",
-      "from": "Mock Contact",
-      "text": "This is a mock script. Replace me.",
+      "from": "Hims",
+      "text": "Good news! Your order from Hims is arriving two days early!",
       "clear": true,
       "typing": false,
       "typed": false,
-      "note": "mock"
+      "note": "After TORPEY: Texas / Talarico, JIMMY: more than people expected? TORPEY: By a lot, Jimmy. (SFX: DING) — quick swipe, then “Oops, sorry about that.”"
     },
     {
       "row": 1,
       "direction": "in",
-      "from": "Mock Contact",
-      "text": "...",
-      "clear": false,
-      "typing": true,
+      "from": "Hims",
+      "text": "Your order of Hims erectile dysfunction pills has arrived. Got questions?",
+      "clear": true,
+      "typing": false,
       "typed": false,
-      "note": "mock: typing dots"
+      "note": "TORPEY: So all eyes were on South Carolina where– (SFX: DING) — quick swipe. JIMMY: Do you need to deal with that, Dave?"
     },
     {
       "row": 2,
       "direction": "in",
-      "from": "Mock Contact",
-      "text": "A second mock text, continuing the thread.",
-      "clear": false,
+      "from": "Hims",
+      "text": "Dave Kolpaski, you said you had a flimsy boner, and Hims is here to help!",
+      "clear": true,
       "typing": false,
       "typed": false,
-      "note": "mock"
+      "note": "TORPEY: Anyway, in Ohio– (SFX: DING) — quick swipe. TORPEY: Give me just one quick sec."
     },
     {
       "row": 3,
       "direction": "out",
-      "from": "Mock Contact",
-      "text": "A mock reply, typed out.",
+      "from": "Hims",
+      "text": "STOP. UNSUBSCRIBE. NO MORE TEXTS.",
       "clear": false,
       "typing": false,
       "typed": true,
-      "note": "mock: typed out by the presenter"
+      "note": "TORPEY pulls up the text chat on his phone, types it, swipes it away. Then: “Okay! All good. Let’s hop over to Maine, where–”"
     },
     {
       "row": 4,
       "direction": "in",
-      "from": "Mock Contact",
-      "text": "Last mock text, on its own.",
+      "from": "Hims",
+      "text": "Congrats! With your five-year supply order, you’re a Hims Gold member!",
       "clear": true,
       "typing": false,
       "typed": false,
-      "note": "mock"
+      "note": "(SFX: DING) — quick swipe"
+    },
+    {
+      "row": 5,
+      "direction": "in",
+      "from": "Hims",
+      "text": "Your recent Hims order qualifies you for our new ‘Severe Case’ discount!",
+      "clear": true,
+      "typing": false,
+      "typed": false,
+      "note": "TORPEY: Susan Collins was in a very tight race against– (SFX: DING) — quick swipe"
+    },
+    {
+      "row": 6,
+      "direction": "in",
+      "from": "Hims",
+      "text": "Your Hims prescription has been increased to the maximum legal dosage. Fingers crossed!",
+      "clear": true,
+      "typing": false,
+      "typed": false,
+      "note": "TORPEY: Troy Jackson, who was hoping to upset the incumbent. (SFX: DING) — quick swipe"
+    },
+    {
+      "row": 7,
+      "direction": "in",
+      "from": "Hims",
+      "text": "Your request for a stronger pill has been sent to our Hims science department!",
+      "clear": true,
+      "typing": false,
+      "typed": false,
+      "note": "TORPEY: And he did exactly that! It was a shock. (SFX: DING) — quick swipe"
+    },
+    {
+      "row": 8,
+      "direction": "in",
+      "from": "Hims",
+      "text": "We saw the pictures you sent us and we think you actually need “Hims Minis.”",
+      "clear": true,
+      "typing": false,
+      "typed": false,
+      "note": "TORPEY: “I’m just getting so much spam! Talk about bad timing!” (SFX: DING) — appears behind him, no swipe. TORPEY: Actually I might take the week off."
     }
   ]
 }
